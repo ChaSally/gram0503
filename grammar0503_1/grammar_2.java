@@ -47,6 +47,9 @@ public class grammar_2 {
 		
 		System.out.printf("정수값 출력 : %d", num1);
 		
+		long var = 50000;
+		System.out.println(var);
+		
 		
 		
 	}
